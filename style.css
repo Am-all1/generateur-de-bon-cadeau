@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: rosybrown;
+  border-style: double;
+  border-color: darkred;
+  border-width: 3.6px;
+}
+
+.titre {
+  text-align: center;
+  font-family: ui-monospace;
+  font-variant: petite-caps;
+  font-weight: lighter;
+}
+
+#formulaire {
+  height: 300px;
+}
